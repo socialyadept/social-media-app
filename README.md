@@ -17,7 +17,7 @@ In order to clone the app in your local computer run the command:
 
 Once the repo is fetched in your local computer run the command: 
 ``yarn``
-**this will install all necessary the dependencies to run the project**
+***this will install all necessary the dependencies to run the project***
 
 To run the app in IOS you need to have a **Macbook** and **IOS Emulator** with **Xcode being** installed, once all requirements are met, run the command: 
 `yarn ios`
