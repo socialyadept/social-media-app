@@ -23,9 +23,13 @@ npm install
 ```
 *"this will install all necessary the dependencies to run the project"*
 
-To run the app in IOS you need to have a **Macbook** and **IOS Emulator** with **Xcode being** installed, once all requirements are met, run the command: 
+To run the app in IOS you need to have a **Macbook** and **IOS Emulator** with **Xcode being** installed, once all requirements are met, run the command (first time): 
 ```
 cd ios && pod install && cd .. && npm run ios
+```
+everytime afterwards: 
+```
+npm run ios
 ```
 
 To run the app in android you need to have **Android Studio** and an **Android Emulator**, once all requirements are met, run the command: 
