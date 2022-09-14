@@ -13,15 +13,22 @@ In this mobile app a user can:
 Most of the modern coding practice and optimizations are applied in this repository which can also help you learn React and React Native in a better way. 
 
 In order to clone the app in your local computer run the command:
-`git clone`
+```
+git clone
+```
 
 Once the repo is fetched in your local computer run the command: 
-# ``yarn``
+```
+yarn
+```
 ***this will install all necessary the dependencies to run the project***
 
 To run the app in IOS you need to have a **Macbook** and **IOS Emulator** with **Xcode being** installed, once all requirements are met, run the command: 
-`yarn ios`
+```
+yarn ios
+```
 
 To run the app in android you need to have **Android Studio** and an **Android Emulator**, once all requirements are met, run the command: 
-`yarn android`
-
+```
+yarn android
+```
